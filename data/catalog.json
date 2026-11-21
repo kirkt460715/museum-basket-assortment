@@ -1,0 +1,78 @@
+[
+  {
+    "sku": "ink",
+    "category": "墨样",
+    "width": 4,
+    "fixtures": [
+      "wall",
+      "shelf"
+    ],
+    "arrival": "2026-10-20"
+  },
+  {
+    "sku": "roll",
+    "category": "画轴",
+    "width": 6,
+    "fixtures": [
+      "wall"
+    ],
+    "arrival": "2026-11-09"
+  },
+  {
+    "sku": "box",
+    "category": "匣盒",
+    "width": 5,
+    "fixtures": [
+      "shelf"
+    ],
+    "arrival": "2026-10-20"
+  },
+  {
+    "sku": "rod",
+    "category": "挂杆",
+    "width": 3,
+    "fixtures": [
+      "wall",
+      "shelf"
+    ],
+    "arrival": "2026-10-20"
+  },
+  {
+    "sku": "hook",
+    "category": "挂钩",
+    "width": 2,
+    "fixtures": [
+      "wall",
+      "shelf"
+    ],
+    "arrival": "2026-10-23"
+  },
+  {
+    "sku": "card",
+    "category": "折卡",
+    "width": 2,
+    "fixtures": [
+      "wall",
+      "shelf"
+    ],
+    "arrival": "2026-10-20"
+  },
+  {
+    "sku": "stamp",
+    "category": "印章",
+    "width": 4,
+    "fixtures": [
+      "shelf"
+    ],
+    "arrival": "2026-10-27"
+  },
+  {
+    "sku": "note",
+    "category": "空白页",
+    "width": 2,
+    "fixtures": [
+      "shelf"
+    ],
+    "arrival": "2026-11-05"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "store": "river",
+    "id": "F1",
+    "room": "wall",
+    "width": 15,
+    "current": [
+      "ink",
+      "rod",
+      "hook",
+      "card"
+    ]
+  },
+  {
+    "store": "river",
+    "id": "F2",
+    "room": "shelf",
+    "width": 12,
+    "current": [
+      "box",
+      "stamp"
+    ]
+  }
+]

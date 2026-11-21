@@ -1,0 +1,58 @@
+[
+  {
+    "store": "river",
+    "sku": "rod",
+    "units": 6,
+    "known": "2026-10-22T09:00:00+08:00",
+    "fresh_date": "2026-10-22"
+  },
+  {
+    "store": "river",
+    "sku": "hook",
+    "units": 3,
+    "known": "2026-10-22T09:00:00+08:00",
+    "fresh_date": "2026-10-22"
+  },
+  {
+    "store": "river",
+    "sku": "note",
+    "units": 12,
+    "known": "2026-10-22T09:00:00+08:00",
+    "fresh_date": "2026-11-05"
+  },
+  {
+    "store": "river",
+    "sku": "stamp",
+    "units": 16,
+    "known": "2026-10-22T09:00:00+08:00",
+    "fresh_date": "2026-10-27"
+  },
+  {
+    "store": "river",
+    "sku": "ink",
+    "units": 25,
+    "known": "2026-10-22T09:00:00+08:00",
+    "fresh_date": "2026-10-22"
+  },
+  {
+    "store": "river",
+    "sku": "box",
+    "units": 8,
+    "known": "2026-10-22T09:00:00+08:00",
+    "fresh_date": "2026-10-22"
+  },
+  {
+    "store": "river",
+    "sku": "card",
+    "units": 18,
+    "known": "2026-10-22T09:00:00+08:00",
+    "fresh_date": "2026-10-22"
+  },
+  {
+    "store": "river",
+    "sku": "roll",
+    "units": 5,
+    "known": "2026-10-22T09:00:00+08:00",
+    "fresh_date": "2026-11-09"
+  }
+]

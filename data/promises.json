@@ -1,0 +1,26 @@
+[
+  {
+    "store": "river",
+    "sku": "ink",
+    "kind": "常设",
+    "priority": 1,
+    "until_date": "2026-11-19",
+    "units": 1
+  },
+  {
+    "store": "river",
+    "sku": "rod",
+    "kind": "预约",
+    "priority": 1,
+    "until_date": "2026-11-01",
+    "units": 5
+  },
+  {
+    "store": "river",
+    "sku": "box",
+    "kind": "预约",
+    "priority": 1,
+    "until_date": "2026-11-03",
+    "units": 3
+  }
+]

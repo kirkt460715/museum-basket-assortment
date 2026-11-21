@@ -1,0 +1,25 @@
+[
+  {
+    "carrier": "roll",
+    "need": "rod",
+    "substitutes": [
+      "hook"
+    ],
+    "from_date": "2026-10-25",
+    "until_date": "2026-11-13"
+  },
+  {
+    "carrier": "ink",
+    "need": "hook",
+    "substitutes": [],
+    "from_date": "2026-08-01",
+    "until_date": "2026-11-14"
+  },
+  {
+    "carrier": "stamp",
+    "need": "note",
+    "substitutes": [],
+    "from_date": "2026-10-30",
+    "until_date": "2026-11-21"
+  }
+]
