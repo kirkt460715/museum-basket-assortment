@@ -9,7 +9,7 @@
 ## 数据约定
 
 - `catalog.json` 柜面宽度单位统一为厘米，fixtures 指柜型。arrival 为新品预计可入柜日期。
-- `baskets.json` 在某个时间进柜的一次访问，含无下单机会；promo 表示活动期间。
+- `baskets.json` 在某个时间进柜的一次访问，含无下单机会。promo 表示活动期间。
 - `exposure.json` 该次访问实际见到且有货的商品集合。缺行表示该访问未暴露。offer_type 为现场替代标志。
 - `shelf_days.json` 馆店每日的在售、缺货和未陈列状态，用来区分访问没有暴露的原因。
 - `lines.json` 实际购物行，reason 区分自选、套装强制组成和赠品。同一篮可以有多行。
@@ -17,6 +17,7 @@
 - `stock.json` 到货资料，units 是 fresh_date 起可以买到的批量，已预约量另见 promises。
 - `dependencies.json` 有效的套装组成与允许替代的组件，结束日包含。
 - `promises.json` 已对外承诺的预留数量或常设商品，从当前计划起持续到当天。
+- `transitions.json` 换柜确认的原定及实际时点。延后行未改变原有上架状态。shelf_days 仍为店员早报，发生换柜后同日事实以实际确认时点为准。
 - `review_windows.json` 选候选期、留出期和换柜安排窗，含开始及结束日。min_common 是计算联购关系时最低共同暴露机会。
 
 ## 检查资料

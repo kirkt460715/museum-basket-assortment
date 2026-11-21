@@ -1,0 +1,38 @@
+[
+  {
+    "event": "E1",
+    "store": "river",
+    "cabinet": "F1",
+    "sku": "rod",
+    "scheduled": "2026-10-29T09:00:00+08:00",
+    "actual": "2026-11-02T09:00:00+08:00",
+    "event_type": "撤柜"
+  },
+  {
+    "event": "E2",
+    "store": "river",
+    "cabinet": "F1",
+    "sku": "hook",
+    "scheduled": "2026-10-29T09:00:00+08:00",
+    "actual": null,
+    "event_type": "延后"
+  },
+  {
+    "event": "E3",
+    "store": "river",
+    "cabinet": "F2",
+    "sku": "stamp",
+    "scheduled": "2026-10-29T09:00:00+08:00",
+    "actual": "2026-10-28T09:00:00+08:00",
+    "event_type": "上柜"
+  },
+  {
+    "event": "E4",
+    "store": "river",
+    "cabinet": "F2",
+    "sku": "note",
+    "scheduled": "2026-11-03T09:00:00+08:00",
+    "actual": "2026-11-05T09:00:00+08:00",
+    "event_type": "上柜"
+  }
+]
